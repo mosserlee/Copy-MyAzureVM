@@ -5,7 +5,7 @@ A demo PowerShell script to copy Azure virtual machine to anther datacenter.
 2. Microsoft Azure PowerShell model 5.6.0 +
 https://github.com/Azure/azure-powershell/releases
 ## Limitations
-Current version only supports migrate Azure VM between same account, same subscription. 
+Current version only supports to migrate Azure VM between with same account, same subscription. 
 ## Usages
 1. Stop Azure VMs on Azure portal, and make sure its staus is 'VM deallocated'
 2. Download script file 'Copy-MyAzureVM.ps1' 
